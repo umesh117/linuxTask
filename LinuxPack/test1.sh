@@ -29,4 +29,4 @@ git add .
 git commit -m "Creation html file_linux2"
 git remote add origin "https://github.com/umesh117/linuxTask.git"
 git remote -v
-git push origin master
+git push -f origin master
