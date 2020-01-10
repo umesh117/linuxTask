@@ -25,8 +25,8 @@ start "chrome" $html_fname".html"
 cd ..
 cd ..
 git init
-git add LinuxPack
+git add .
 git commit -m "Creation html file_linux2"
 git remote add origin "https://github.com/umesh117/linuxTask.git"
 git remote -v
-git push origin linux
+git push origin master
